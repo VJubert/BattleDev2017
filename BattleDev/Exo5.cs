@@ -4,6 +4,9 @@ using System.Linq;
 
 namespace BattleDev
 {
+	/// <summary>
+	/// NOT WORKING
+	/// </summary>
     class Exo5
     {
 		static void Main(string[] args)
